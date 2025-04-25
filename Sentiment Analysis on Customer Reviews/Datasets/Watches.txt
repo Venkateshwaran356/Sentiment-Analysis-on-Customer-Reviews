@@ -1,0 +1,32 @@
+product/productId: B000CPYP2C
+product/title: Nixon Lodown Watch - Men's Black/Teal, One Size
+product/price: 100.00
+review/userId: A35VDBUHUR20KM
+review/profileName: Clifford B. Keller "honestabe"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1293494400
+review/summary: difficult to set and reset, instructions are poorly written.
+review/text: I really like the size and functions of this watch. But even with the instructions my friends and I found this watch really confusing to use. You better be really patient, or preferably have the store set up the watch for you.
+
+product/productId: B000CPYP2C
+product/title: Nixon Lodown Watch - Men's Black/Teal, One Size
+product/price: 100.00
+review/userId: A25MT29XPP0UFH
+review/profileName: Laura
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1323648000
+review/summary: Poor
+review/text: Its the 3 watch i purchase 2 were out of battery within 5 months and this one not working options, menu and the hr doesnt stay permanently had to keep presing buttins to see hr
+
+product/productId: B000CPYP2C
+product/title: Nixon Lodown Watch - Men's Black/Teal, One Size
+product/price: 100.00
+review/userId: AF1ZKYU0KHQPM
+review/profileName: Blarg
+review/helpfulness: 0/3
+review/score: 1.0
+review/time: 1322265600
+review/summary: Nasty
+review/text: It gets really dirty really fast and it is really expensive and it sucks i hate it alot alot alot of i want one ots 80$ so screw it
